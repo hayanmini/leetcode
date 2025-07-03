@@ -1,17 +1,2 @@
-# leetcode
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
-## String
-|  |
-| ------- |
-| [0058-length-of-last-word](https://github.com/hayanmini/leetcode/tree/master/0058-length-of-last-word) |
-| [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
-## Sorting
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
-<!---LeetCode Topics End-->
+# 💭 leetcode
+- [leetcode](https://leetcode.com/problemset/) 알고리즘 문제 풀이
