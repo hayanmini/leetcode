@@ -25,41 +25,41 @@ class Solution {
     // [1,3,12,0,0]
 }
 
-    // void moveZeroes(List<int> nums) {
-    //     if (nums.length < 2) return;
-    //     int length = nums.length;
-    //     List<int> zeroIndex = [];
+    void moveZeroes(List<int> nums) {
+        if (nums.length < 2) return;
+        int length = nums.length;
+        List<int> zeroIndex = [];
 
-    //     for (int i = 0; i < length; i++) {
-    //         if (nums[i] == 0) {
-    //         zeroIndex.add(i);
-    //         }
-    //     }
+        for (int i = 0; i < length; i++) {
+            if (nums[i] == 0) {
+            zeroIndex.add(i);
+            }
+        }
 
-    //     for (int i = 0; i < zeroIndex.length; i++) {
-    //         nums.removeAt(zeroIndex[i] - i);
-    //         nums.add(0);
-    //     }
+        for (int i = 0; i < zeroIndex.length; i++) {
+            nums.removeAt(zeroIndex[i] - i);
+            nums.add(0);
+        }
 
-    //     return;
-    // }
+        return;
+    }
 
-    // void moveZeroes(List<int> nums) {
-    //     int originalLength = nums.length;
-    //     nums.removeWhere((x) => x == 0);
-    //     int zerosToAdd = originalLength - nums.length;
-    //     nums.addAll(List.filled(zerosToAdd, 0));
-    // }
+    void moveZeroes(List<int> nums) {
+        int originalLength = nums.length;
+        nums.removeWhere((x) => x == 0);
+        int zerosToAdd = originalLength - nums.length;
+        nums.addAll(List.filled(zerosToAdd, 0));
+    }
 
-    // void moveZeroes(List<int> nums) {
-    //     int lastNonZero = 0;
-    //     for (int i = 0; i < nums.length; i++) {
-    //         if (nums[i] != 0) {
-    //         int temp = nums[i];
-    //         nums[i] = nums[lastNonZero];
-    //         nums[lastNonZero] = temp;
-    //         lastNonZero++;
-    //         }
-    //     }
-    // }
+    void moveZeroes(List<int> nums) {
+        int lastNonZero = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != 0) {
+            int temp = nums[i];
+            nums[i] = nums[lastNonZero];
+            nums[lastNonZero] = temp;
+            lastNonZero++;
+            }
+        }
+    }
 }
