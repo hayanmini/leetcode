@@ -8,6 +8,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/hayanmini/leetcode/tree/master/0058-length-of-last-word) |
 | [0136-single-number](https://github.com/hayanmini/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
 | [0283-move-zeroes](https://github.com/hayanmini/leetcode/tree/master/0283-move-zeroes) |
 ## String
@@ -18,6 +19,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -39,5 +41,17 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/hayanmini/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
 
