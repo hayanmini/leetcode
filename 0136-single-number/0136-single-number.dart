@@ -10,3 +10,10 @@ class Solution {
     return result;
   }
 }
+
+class Solution2 {
+  int majorityElement2(List<int> nums) {
+    nums.sort();
+    return nums[nums.length ~/ 2];
+  }
+}
