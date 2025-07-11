@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hayanmini/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hayanmini/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0058-length-of-last-word](https://github.com/hayanmini/leetcode/tree/master/0058-length-of-last-word) |
 | [0136-single-number](https://github.com/hayanmini/leetcode/tree/master/0136-single-number) |
@@ -15,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hayanmini/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/hayanmini/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -55,5 +57,9 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hayanmini/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 
