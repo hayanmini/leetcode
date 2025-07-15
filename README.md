@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hayanmini/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0058-length-of-last-word](https://github.com/hayanmini/leetcode/tree/master/0058-length-of-last-word) |
 | [0088-merge-sorted-array](https://github.com/hayanmini/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hayanmini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hayanmini/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hayanmini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1236-n-th-tribonacci-number](https://github.com/hayanmini/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
