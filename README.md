@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
 | [0283-move-zeroes](https://github.com/hayanmini/leetcode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/hayanmini/leetcode/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
@@ -66,5 +67,9 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hayanmini/leetcode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/hayanmini/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
 
