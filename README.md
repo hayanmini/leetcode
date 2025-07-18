@@ -23,6 +23,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hayanmini/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hayanmini/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/hayanmini/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/hayanmini/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/hayanmini/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
