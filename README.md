@@ -36,6 +36,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hayanmini/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hayanmini/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/hayanmini/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/hayanmini/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hayanmini/leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -44,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hayanmini/leetcode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hayanmini/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/hayanmini/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/hayanmini/leetcode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
