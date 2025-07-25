@@ -16,6 +16,7 @@
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
 | [0283-move-zeroes](https://github.com/hayanmini/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/hayanmini/leetcode/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/hayanmini/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/hayanmini/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hayanmini/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hayanmini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/hayanmini/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/hayanmini/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
