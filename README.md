@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/hayanmini/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hayanmini/leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/hayanmini/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/hayanmini/leetcode/tree/master/0228-summary-ranges) |
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
 | [0283-move-zeroes](https://github.com/hayanmini/leetcode/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hayanmini/leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/hayanmini/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/hayanmini/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hayanmini/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -119,6 +121,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/hayanmini/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/hayanmini/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
