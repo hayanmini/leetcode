@@ -34,6 +34,7 @@
 | [0058-length-of-last-word](https://github.com/hayanmini/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hayanmini/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hayanmini/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hayanmini/leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hayanmini/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
@@ -54,6 +55,7 @@
 | [0189-rotate-array](https://github.com/hayanmini/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hayanmini/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hayanmini/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hayanmini/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hayanmini/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
