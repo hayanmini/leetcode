@@ -36,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/hayanmini/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/hayanmini/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hayanmini/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/hayanmini/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/hayanmini/leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hayanmini/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
@@ -88,6 +89,7 @@
 | [0202-happy-number](https://github.com/hayanmini/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/hayanmini/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/hayanmini/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/hayanmini/leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/hayanmini/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hayanmini/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hayanmini/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/hayanmini/leetcode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
