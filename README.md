@@ -27,6 +27,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/hayanmini/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hayanmini/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hayanmini/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/hayanmini/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/hayanmini/leetcode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/hayanmini/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## String Matching
 |  |
 | ------- |
