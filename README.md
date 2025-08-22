@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/hayanmini/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hayanmini/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hayanmini/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/hayanmini/leetcode/tree/master/0055-jump-game) |
 | [0058-length-of-last-word](https://github.com/hayanmini/leetcode/tree/master/0058-length-of-last-word) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hayanmini/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hayanmini/leetcode/tree/master/0088-merge-sorted-array) |
@@ -78,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hayanmini/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hayanmini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hayanmini/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/hayanmini/leetcode/tree/master/0392-is-subsequence) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hayanmini/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/hayanmini/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hayanmini/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
 
